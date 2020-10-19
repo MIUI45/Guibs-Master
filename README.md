@@ -18,4 +18,8 @@
  <summary>Comandos De Música</summary>
  
  <br>
- `
+ `play`, `stop`, `pause`, `skip`, `playlist`, `loop`, `np`
+ 
+ </details>
+ 
+ ### Créditos
