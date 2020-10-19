@@ -1,2 +1,4 @@
 # Guibs
-Em construção 
+# Comandos Diversos
+
+
