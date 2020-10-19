@@ -11,4 +11,11 @@
 
 </details>
 
+## Comandos de música 
 
+<details>
+  
+ <summary>Comandos De Música</summary>
+ 
+ <br>
+ `
