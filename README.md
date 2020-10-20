@@ -19,8 +19,8 @@
  
  <br>
  
- `play`, `stop`, `pause`, `skip`, `playlist`, `loop`, `np`
- 
+ `play`, `stop`, `pause`, `skip`, `playlist`, `loop`, `np`, `volume`
+
  </details>
  
 ### Créditos
