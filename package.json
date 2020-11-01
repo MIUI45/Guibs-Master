@@ -1,0 +1,57 @@
+{
+  "name": "guibs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x",
+    "npm": "*"
+  },
+  "keywords": [
+    "Guibs",
+    "Pandora",
+    "Titan",
+    "George",
+    "EveCloud"
+  ],
+  "author": "Ghost",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "@pm2/agent": "~1.0.2",
+    "@pm2/io": "~4.3.5",
+    "@pm2/js-api": "~0.6.0",
+    "better-sqlite3": "^7.1.1",
+    "bindings": "^1.5.0",
+    "botkit-discord": "^0.1.3",
+    "byte-size": "^7.0.0",
+    "color": "^3.1.3",
+    "dblapi.js": "^2.4.1",
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "erela.js": "^2.0.1",
+    "erela.js-spotify": "^1.0.2",
+    "eventemitter3": "^4.0.7",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "ffmpeg-static": "^4.2.7",
+    "fs": "0.0.1-security",
+    "glob": "^7.1.6",
+    "heroku": "^7.45.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.10.7",
+    "opus": "0.0.0",
+    "os": "^0.1.1",
+    "parse-ms": "^2.1.0",
+    "pm2": "^4.5.0",
+    "quick.db": "^7.1.3",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^3.4.1",
+    "ytdl-core-discord": "^1.2.3"
+  },
+  "devDependencies": {}
+}
