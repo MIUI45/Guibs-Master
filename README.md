@@ -22,12 +22,3 @@
  `play`, `stop`, `pause`, `skip`, `playlist`, `loop`, `np`, `volume`
 
  </details>
- 
-### Créditos
-
-
-
-
-### Dúvidas
-
-## Como usar? 
