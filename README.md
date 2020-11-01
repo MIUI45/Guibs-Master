@@ -7,7 +7,7 @@
 
 <br>
 
-`userinfo`, `avatar`, `shards`, `botinfo`, `clear`, `fake`, `say`
+`avatar`, `botinfo`, `clear`, `fake`, `say`
 
 </details>
 
@@ -19,6 +19,6 @@
  
  <br>
  
- `play`, `stop`, `pause`, `skip`, `playlist`, `loop`, `np`, `volume`
+ `play`, `stop`, `pause`, `skip`, `queue`, `loop`, `np`, `volume`
 
  </details>
