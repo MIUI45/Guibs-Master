@@ -10,9 +10,6 @@ const client = new Discord.Client({ disableMentions: 'everyone', ws: { propertie
 client.queue = new Map();
 client.vote = new Map();
 
-const DBL = require("dblapi.js");
-const dbl = new DBL('eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijc0NDU5MjE0MDk1NjMzNjEzOCIsImJvdCI6dHJ1ZSwiaWF0IjoxNjAzMDU1ODcyfQ.cJe8cf_3t-SE5oiUUBwtd2n32phmggS2vsmgn9zKC4Q', client);
-
 fs.readdir("./Events/", (err, files) => {
     if(err)
         console.error(err);
