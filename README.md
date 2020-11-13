@@ -1,4 +1,3 @@
-# Guibs
 ## Comandos Diversos
 
 <details>
